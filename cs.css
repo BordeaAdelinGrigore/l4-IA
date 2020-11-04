@@ -1,0 +1,55 @@
+img {
+ 
+  border-radius: 15px 50px 30px 5px;
+  opacity: 0.9;
+}
+
+body {
+  background-color: Moccasin;
+}
+h2{
+color: red;
+ font-family:verdana
+  }
+  h3{
+  color: DarkMagenta;
+  font-style: italic;
+  }
+  ul{
+  color: green;
+  
+  }
+  ol{
+  color: orange;
+}
+li{
+color: brown;
+}
+a {
+color: purple;
+}
+h4{ 
+color: green;
+font-family: "Times New Roman", Times, serif;
+style="background-color:powderblue;"
+}
+
+
+.photo{
+  border-radius: 5px;
+  border: 1px solid black;
+  align-items: middle;
+  align-self: middle;
+    ;
+}
+
+
+
+table,th,tr{
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.hobby{
+  background-color: yellow;
+}
